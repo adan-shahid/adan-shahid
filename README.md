@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adan Shahid</h1>
-<h3 align="center">A passionate python developer from Pakistan.</h3>
+<h3 align="center">A passionate PYTHON developer from Pakistan.</h3>
 
 - 🔭 I’m currently working on **Multivendor Ecommerce system**
 
