@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Multivendor Ecommerce system**
 
-- 👯 I’m looking to collaborate on **Python open source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **adanshahid.student@gmail.com**
 
