@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **adanshahid.student@gmail.com**
 
-- ⚡ Fun fact **I love to read books.**
+- ⚡ Fun fact **I love to remain fit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
