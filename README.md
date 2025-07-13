@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **adanshahid.student@gmail.com**
 
-- ⚡ Fun fact **I love to remain fit**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adanshahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanshahid" height="30" width="40" /></a>
