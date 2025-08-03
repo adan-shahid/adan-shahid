@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adan Shahid</h1>
 <h3 align="center">Final Year Student, looking for opportunities</h3>
 
-- 🔭 I’m currently working on **Real Time Chatting Application**
+- 🔭 I’m currently working on **Real Time Chatting Application.**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 📫 How to reach me **adanshahid.student@gmail.com**
 
