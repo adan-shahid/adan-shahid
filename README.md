@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Django Rest Framework**
 
-- 👯 I’m looking to collaborate on **Python Open Source Projects.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 📫 How to reach me **adanshahid.student@gmail.com**
 
