@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adan Shahid</h1>
 <h3 align="center">Final Year Student, looking for opportunities</h3>
 
-- 🔭 I’m currently learning **Django Rest Framework**
+- 🔭 I’m currently learning **Django Rest Framework.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
