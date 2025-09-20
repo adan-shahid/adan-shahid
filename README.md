@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **adanshahid.student@gmail.com**
 
+## Hacktoberfest Participation
+
+[![@adanshahid's Holopin badges](https://holopin.me/adanshahid)](https://holopin.io/@adanshahid)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adanshahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanshahid" height="30" width="40" /></a>
@@ -21,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&locale=en" alt="adan-shahid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&" alt="adan-shahid" /></p>
-[![An image of @adanshahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adanshahid)](https://holopin.io/@adanshahid)
