@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Django Rest Framework**
 
-- 👯 I’m looking to collaborate on ** Open Source Projects.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 📫 How to reach me **adanshahid.student@gmail.com**
 
@@ -21,4 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&locale=en" alt="adan-shahid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&" alt="adan-shahid" /></p>
+
+<h3 align="left">Achievements:</h3>
+<p>(https://holopin.me/adanshahid)](https://holopin.io/@adanshahid)</p>
 
