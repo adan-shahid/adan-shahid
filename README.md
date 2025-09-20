@@ -21,7 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&locale=en" alt="adan-shahid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&" alt="adan-shahid" /></p>
-
-<h3 align="left">Achievements:</h3>
 [![An image of @adanshahid's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adanshahid)](https://holopin.io/@adanshahid)
 
