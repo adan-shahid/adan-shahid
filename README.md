@@ -23,5 +23,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&" alt="adan-shahid" /></p>
 
 <h3 align="left">Achievements:</h3>
-<p>(https://holopin.me/adanshahid)](https://holopin.io/@adanshahid)</p>
+<p>(https://holopin.io/@adanshahid)</p>
 
