@@ -24,4 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&locale=en" alt="adan-shahid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&" alt="adan-shahid" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=adan-shahid)](https://git.io/streak-stats)
