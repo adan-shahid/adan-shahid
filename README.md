@@ -1,23 +1,82 @@
-### Hi there 👋, my name is Adan Shahid
-#### I am final year Electrical Engineering student.
-Looking for opportunities in the field of Software Engineering, Backend Engineering.
+<!-- Adan Shahid | GitHub Profile README -->
 
-Skills: Python / Javascript/ Golang / Django / Django Rest Framework
+<h1 align="center">Hi 👋, I'm Adan Shahid</h1>
+<h3 align="center">Backend Developer | Python 🐍 | Django | JavaScript | Learning React ⚛️</h3>
 
-- 🔭 I’m currently working on Ecommerce website as side project 
-- 🌱 I’m currently learning Django Rest Framework 
-- 👯 I’m looking to collaborate on Open Source Projects 
-- 📫 How to reach me: adanshahid.student@gmail.com 
-- 😄 Pronouns: He/Him 
+<p align="center">
+  <a href="https://github.com/adan-shahid">
+    <img src="https://komarev.com/ghpvc/?username=adan-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/adan-shahid?tab=followers">
+    <img src="https://img.shields.io/github/followers/adan-shahid?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About Me  
+- 🎯 Passionate **Backend Developer** with hands-on experience in **Python**, **Django**, and **REST APIs**  
+- 🌱 Currently learning **React** to become a full-stack developer  
+- 🤝 Open to collaborating on **open-source projects**, **LFX Mentorship**, **GSoC**, and **Outreachy**  
+- 💬 Ask me about **Django**, **APIs**, or **backend design**  
+- 📫 Reach me at: **adanshahid.student@gmail.com**  
+- ⚡ Fun fact: I love building tools that automate boring stuff and make life easier 😄  
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Languages & Frameworks  
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+#### 🗄️ Databases  
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+#### ⚙️ Tools & Platforms  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/adan-shahid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/adan-shahid/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adan-shahid)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&count_private=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&theme=tokyonight" alt="GitHub streak" height="160"/>
+</p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/adan-shahid/contributions?format=svg&private=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adan-shahid&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=adan-shahid)  
+---
 
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/adan-shahid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:adanshahid.student@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/adan-shahid">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ **"Code. Contribute. Collaborate."**  
+> Always learning. Always improving.
