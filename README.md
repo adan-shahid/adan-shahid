@@ -20,7 +20,6 @@
 - 🤝 Open to collaborating on **open-source projects**, **LFX Mentorship**, **GSoC**, and **Outreachy**  
 - 💬 Ask me about **Django**, **APIs**, or **backend design**  
 - 📫 Reach me at: **adanshahid.student@gmail.com**  
-
 ---
 
 ### 🧰 Tech Stack
