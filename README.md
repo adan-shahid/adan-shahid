@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me  
 - 🎯 Passionate **Backend Developer** with hands-on experience in **Python**, **Django**, and **REST APIs**  
 - 🌱 Currently learning **React** to become a full-stack developer  
-- 🤝 Open to collaborating on **open-source projects**, **LFX Mentorship**, **GSoC**, and **Outreachy**  
+- 🤝 Open to collaborating on **open-source projects**. 
 - 💬 Ask me about **Django**, **APIs**, or **backend design**  
 - 📫 Reach me at: **adanshahid.student@gmail.com**  
 ---
