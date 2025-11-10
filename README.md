@@ -1,7 +1,7 @@
 <!-- Adan Shahid | GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Adan Shahid</h1>
-<h3 align="center">Backend Developer | Python 🐍 | Django | JavaScript | Learning FASTAPI</h3>
+<h3 align="center">Backend Developer | Python 🐍 | Django | Learning FASTAPI</h3>
 
 <p align="center">
   <a href="https://github.com/adan-shahid">
