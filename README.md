@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me  
 - 🎯 Passionate **Backend Engineer** with hands-on experience in **Python**, **Django**, and **REST APIs**  
-- 🌱 Currently learning **FASTAPI**, **JavaScript**  
+- 🌱 Currently learning **FASTAPI**. 
 - 🤝 Open to collaborating on **open-source projects**. 
 - 💬 Ask me about **Django**, **APIs**, or **backend design**  
 - 📫 Reach me at: **adanshahid.student@gmail.com**  
