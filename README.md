@@ -1,80 +1,70 @@
-<!-- Adan Shahid | GitHub Profile README -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Adan Shahid</h1>
-<h3 align="center">Backend Developer | Python  | Django | Django Rest Framework</h3>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> 
+  <h1>Hi there, I'm Adan Shahid</h1>
+  
+  <h3>Backend Engineer | Python & Django Specialist</h3>
 
-<p align="center">
-  <a href="https://github.com/adan-shahid">
-    <img src="https://komarev.com/ghpvc/?username=adan-shahid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://github.com/adan-shahid?tab=followers">
-    <img src="https://img.shields.io/github/followers/adan-shahid?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
+  <p>
+    Building scalable APIs and robust database architectures. <br>
+    Currently expanding full-stack capabilities with React.
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/adan-shahid" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:adanshahid.student@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://stackoverflow.com/users/28267581/adan-shahid" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 👨‍💻 About Me  
-- 🎯 Passionate **Backend Engineer** with hands-on experience in **Python**, **Django**, and **REST APIs**  
-- 🌱 Currently learning **Javascript**. 
-- 🤝 Open to collaborating on **open-source projects**. 
-- 💬 Ask me about **Django**, **APIs**, or **backend design**  
-- 📫 Reach me at: **adanshahid.student@gmail.com**  
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **High-performance REST APIs using Django Rest Framework.**
+- 🌱 I’m currently learning **React.js & Next.js** to bridge the gap between backend logic and frontend experience.
+- 🤝 I’m open to collaborating on **Open Source Python projects.**
+- 💬 Ask me about **Backend Architecture, Database Optimization, and Docker.**
+- ⚡ Fun fact: I prefer **Linux** over Windows for development.
+
 ---
 
-### 🧰 Tech Stack
+### 🛠 Tech Stack & Tools
 
-#### 💻 Languages & Frameworks  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
+<div align="center">
 
-#### 🗄️ Databases  
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
-#### ⚙️ Tools & Platforms  
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+</div>
 
-
+---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&theme=tokyonight" alt="GitHub streak" height="160"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&theme=radical&hide_border=true" height="160" alt="Adan's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid&theme=radical&hide_border=true" height="160" alt="Adan's Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adan-shahid&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/adan-shahid" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:adanshahid.student@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/adan-shahid">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adan-shahid&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
-⭐️ **"Code. Contribute. Collaborate."**  
-> Always learning. Always improving.
+<div align="center">
+  <sub>"Code. Contribute. Collaborate."</sub>
+</div>
