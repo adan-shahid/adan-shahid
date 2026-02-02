@@ -29,21 +29,21 @@ I'm a passionate backend engineer specializing in building scalable RESTful APIs
 ## 🛠️ Tech Stack
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -51,7 +51,7 @@ I'm a passionate backend engineer specializing in building scalable RESTful APIs
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adan-shahid&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=adan-shahid&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 
 </div>
 
@@ -70,9 +70,9 @@ I believe in **consistent, meaningful contributions** over sporadic bursts of ac
 
 <div align="center">
 
-![Adan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9" alt="Adan's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adan-shahid&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adan-shahid&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9" alt="Top Languages" />
 
 </div>
 
@@ -82,7 +82,7 @@ I believe in **consistent, meaningful contributions** over sporadic bursts of ac
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adan-shahid&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+<img src="https://github-profile-trophy.vercel.app/?username=adan-shahid&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -139,7 +139,7 @@ I'm interested in:
 
 ### ⚡ "Consistency is the key to mastery"
 
-![Profile Views](https://komarev.com/ghpvc/?username=adan-shahid&color=61dafb&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=adan-shahid&color=61dafb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 **Thanks for visiting my profile! Feel free to reach out.** 🚀
 
