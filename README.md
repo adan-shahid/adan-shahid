@@ -1,146 +1,73 @@
-<div align="center">
-  
-# 👋 Hi there, I'm Adan Shahid
+# Hi there, I'm Adan 👋
 
-### Backend Engineer | Python & Django Specialist
-
-*Building scalable APIs and robust database architectures.*  
-*Currently expanding full-stack capabilities with React.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adan-shahid)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adanshahid.student@gmail.com)
-
-</div>
+🎓 Electrical Engineering Graduate
+🤖 AI / Machine Learning Enthusiast
+💻 Python Developer | Interested in Computer Vision & Intelligent Systems
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate backend engineer specializing in building scalable RESTful APIs and designing robust database architectures. With a strong foundation in Python and Django, I'm committed to writing clean, maintainable code and following best practices in software development.
+I am an **Final Year Electrical Engineering Student** with hands-on experience in **Artificial Intelligence and Machine Learning** through project development and internship work. I enjoy building intelligent systems and experimenting with modern **vision-language models, machine learning pipelines, and real-world datasets**.
 
-- 🔭 **Currently Working On:** Expanding full-stack capabilities with React
-- 🌱 **Learning:** Advanced React patterns, system design, and microservices architecture
-- 💼 **Experience:** Python, Django, REST APIs, PostgreSQL, Docker
-- 🎯 **Focus:** Building production-ready, scalable backend systems
-- ⚡ **Fun Fact:** I believe in continuous learning and consistent contribution
+My recent work focuses on **computer vision, machine learning systems, and data-driven applications**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Backend
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### Programming Languages
 
-### Frontend
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Machine Learning / AI
 
----
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
 
-## 🔥 GitHub Streak & Consistency
+### Web Development
 
-<div align="center">
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 
-<img src="https://streak-stats.demolab.com/?user=adan-shahid&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+### Data & Tools
 
-</div>
-
-### 📊 Contribution Philosophy
-
-I believe in **consistent, meaningful contributions** over sporadic bursts of activity. My commitment to daily coding and continuous improvement reflects in my GitHub activity:
-
-- 🎯 **Daily Commits:** Maintaining an active development routine
-- 📈 **Continuous Growth:** Regular learning and skill development
-- 🔧 **Quality Over Quantity:** Focus on meaningful, well-documented contributions
-- 🌱 **Open Source:** Contributing to the developer community
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adan-shahid&show_icons=true&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9" alt="Adan's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adan-shahid&layout=compact&theme=dark&hide_border=true&border_radius=10&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9" alt="Top Languages" />
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adan-shahid\&show_icons=true\&theme=tokyonight)
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🔥 GitHub Streak
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=adan-shahid&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-
-</div>
-
-### 📌 Key Metrics
-
-- 📦 **14 Public Repositories** - Diverse projects showcasing various skills
-- 👥 **Active Contributor** - Regular commits and code reviews
-- 🌟 **Code Quality** - Focus on clean, maintainable, and documented code
-- 🎓 **Continuous Learner** - Always exploring new technologies and best practices
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid\&theme=tokyonight)
 
 ---
 
-## 💼 What I'm Currently Building
+## 🌱 Currently Learning
 
-### 🎯 Current Focus Areas
-
-1. **Scalable Backend Systems**
-   - RESTful API development with Django REST Framework
-   - Database optimization and complex query handling
-   - Authentication and authorization systems
-
-2. **Full-Stack Development**
-   - Integrating React frontends with Django backends
-   - Building responsive, user-friendly interfaces
-   - State management and API integration
-
-3. **DevOps & Deployment**
-   - Containerization with Docker
-   - CI/CD pipeline implementation
-   - Cloud deployment strategies
+* Advanced Machine Learning
+* Deep Learning for Computer Vision
+* React & Modern Web Development
 
 ---
 
-## 📫 Let's Connect
+## 👀 Profile Visitors
 
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 💼 **LinkedIn:** [linkedin.com/in/adan-shahid](https://linkedin.com/in/adan-shahid)
-- 📧 **Email:** [adanshahid.student@gmail.com](mailto:adanshahid.student@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=adan-shahid\&color=blue)
 
 ---
 
-## 🤝 Open to Opportunities
+## 📫 Connect With Me
 
-I'm interested in:
-- Full-time backend engineering positions
-- Freelance/contract work on Django projects
-- Open source collaboration
-- Technical mentorship and knowledge sharing
-
----
-
-<div align="center">
-
-### ⚡ "Consistency is the key to mastery"
-
-<img src="https://komarev.com/ghpvc/?username=adan-shahid&color=61dafb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-**Thanks for visiting my profile! Feel free to reach out.** 🚀
-
-</div>
+* GitHub: https://github.com/adan-shahid
+* LinkedIn: https://linkedin.com/in/adan-shahid
