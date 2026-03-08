@@ -1,6 +1,6 @@
 # Hi there, I'm Adan 👋
 
-🎓 Electrical Engineering Graduate
+🎓 Electrical Engineering Student
 🤖 AI / Machine Learning Enthusiast
 💻 Python Developer | Interested in Computer Vision & Intelligent Systems
 
@@ -41,12 +41,6 @@ My recent work focuses on **computer vision, machine learning systems, and data-
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adan-shahid\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid\&theme=tokyonight)
@@ -69,5 +63,6 @@ My recent work focuses on **computer vision, machine learning systems, and data-
 
 ## 📫 Connect With Me
 
+* Email: adanshahid.student@gmail.com
 * GitHub: https://github.com/adan-shahid
 * LinkedIn: https://linkedin.com/in/adan-shahid
