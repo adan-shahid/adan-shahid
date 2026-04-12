@@ -1,8 +1,8 @@
 # Hi there, I'm Adan 👋
 
-🎓 Electrical Engineering Student
-🤖 AI / Machine Learning Enthusiast
-💻 Python Developer | Interested in Computer Vision & Intelligent Systems
+Electrical Engineering Student
+AI / Machine Learning Enthusiast
+Python Developer | Interested in Computer Vision & Intelligent Systems
 
 ---
 
