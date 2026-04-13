@@ -45,15 +45,7 @@ My recent work focuses on **computer vision, machine learning systems, and data-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adan-shahid\&theme=tokyonight)
 
----
 
-## 🌱 Currently Learning
-
-* Advanced Machine Learning
-* Deep Learning for Computer Vision
-* React & Modern Web Development
-
----
 
 ## 👀 Profile Visitors
 
