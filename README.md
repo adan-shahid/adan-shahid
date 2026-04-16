@@ -55,13 +55,6 @@ My recent work focuses on **computer vision, machine learning systems, and data-
 ---
 
 
-
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=adan-shahid\&color=blue)
-
----
-
 ## 📫 Connect With Me
 
 * Email: adanshahid.student@gmail.com
