@@ -10,8 +10,6 @@ Python Developer | Interested in Computer Vision & Intelligent Systems
 
 I am an **Final Year Electrical Engineering Student** with hands-on experience in **Artificial Intelligence and Machine Learning** through project development and internship work. I enjoy building intelligent systems and experimenting with modern **vision-language models, machine learning pipelines, and real-world datasets**.
 
-My recent work focuses on **computer vision, machine learning systems, and data-driven applications**.
-
 ---
 
 ## 🛠 Tech Stack
