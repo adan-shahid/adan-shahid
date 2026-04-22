@@ -56,5 +56,4 @@ I am an **Final Year Electrical Engineering Student** with hands-on experience i
 ## 📫 Connect With Me
 
 * Email: adanshahid.student@gmail.com
-* GitHub: https://github.com/adan-shahid
 * LinkedIn: https://linkedin.com/in/adan-shahid
