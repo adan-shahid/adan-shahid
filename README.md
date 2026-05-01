@@ -1,4 +1,4 @@
-# Hi there, I'm Adan 👋
+# Hi there, I'm Adan 
 
 Electrical Engineering Student
 AI / Machine Learning Enthusiast
