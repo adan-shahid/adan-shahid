@@ -2,7 +2,7 @@
 
 Electrical Engineering Student
 AI / Machine Learning Enthusiast
-Python/Django Developer | Interested in Computer Vision & Intelligent Systems
+Python/Django Developer | Interested in Natural Language Processing (NLP)
 
 ---
 
