@@ -1,7 +1,7 @@
 # Hi there, I'm Adan 
 
 Electrical Engineering Student |
-AI / Machine Learning Enthusiast |
+Machine Learning Enthusiast |
 Python/Django Developer | Interested in Natural Language Processing (NLP)
 
 ---
