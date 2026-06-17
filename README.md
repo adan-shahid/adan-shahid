@@ -5,7 +5,6 @@ Machine Learning Enthusiast |
 Python/Django Developer | Interested in Natural Language Processing (NLP)
 
 ---
-
 ## 🚀 About Me
 
 I am an **Final Year Electrical Engineering Student** with hands-on experience in **Backend Development and Machine Learning** through project development and internship work. I enjoy building intelligent systems and experimenting with modern **vision-language models, machine learning pipelines, and real-world datasets**.
