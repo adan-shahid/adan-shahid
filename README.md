@@ -1,4 +1,4 @@
-# Hi there, I'm Adan 
+# Hi there, I'm Adan Shahid
 
 Electrical Engineering Graduate |
 Machine Learning Enthusiast |
